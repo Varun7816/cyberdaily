@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:I[53243,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+3:I[3470,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+9:I[68027,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+:HL["/_next/static/chunks/bf6a6db65f82309d.css","style"]
+6:T667,We’re Hiring: Application Penetration Tester (2–5 Years Experience)
+
+Are you passionate about breaking applications to make them stronger? We’re looking for a skilled Application Penetration Tester to join our team in Mumbai, India (Full-time, Onsite).
+
+What You’ll Do:
+- Perform hands-on Web, Mobile, and Thick Client application penetration testing.
+- Conduct Source Code Reviews to identify security flaws, coding errors, and compliance issues.
+- Perform static analysis and provide remediation recommendations based on best practices.
+- Validate fixes and ensure vulnerabilities are resolved without introducing new risks.
+- Analyze third-party libraries and dependencies for known vulnerabilities and licensing risks, and recommend secure upgrades.
+- Support integration of security tools into CI/CD pipelines
+- Assist in risk assessment, threat modeling, and audit compliance.
+- Collaborate with development and security teams to enhance code quality and safety.
+- Document findings and communicate technical issues clearly to stakeholders.
+- Stay updated on emerging threats, tools, and industry standards.
+
+What We’re Looking For:
+- 2–5 years of experience in Application Security / Penetration Testing
+- Strong understanding of OWASP Top 10 and secure coding practices
+- Hands-on experience with tools like Burp Suite, MobSF, Fortify, SonarQube (or similar)
+- Good problem-solving mindset and clear communication skills.
+
+Location: Mumbai, India (Full-time, Onsite)
+If you’re passionate about security and want to work on challenging projects, we’d love to hear from you!
+Send email to recruitement@controlcase.com0:{"P":null,"b":"HFWSpj3XGqc8o6Oyln5f6","p":"","c":["","jobs","111"],"i":false,"f":[[["",{"children":["jobs",{"children":[["id","111","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/bf6a6db65f82309d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0362750dd751a011.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]}]]}],{"children":["jobs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","111","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-gray-50 py-12 px-4 sm:px-6","children":["$","div",null,{"className":"max-w-3xl mx-auto bg-white border border-gray-200 rounded-2xl shadow-lg p-8 md:p-10","children":[["$","h1",null,{"className":"text-3xl font-bold text-blue-800 mb-2","children":"Application Penetration Tester"}],["$","div",null,{"className":"text-gray-700 font-semibold mb-4 text-lg","children":"ControlCase"}],["$","div",null,{"className":"flex flex-wrap gap-4 text-sm text-gray-500 mb-6","children":[["$","span",null,{"children":["📍 ","Mumbai, India"]}],["$","span",null,{"children":["💼 ","On-site"]}],["$","span",null,{"children":["🕑 ","2–5 years"]}],["$","span",null,{"children":["🗓️ Posted: ","12-09-2025"]}]]}],["$","div",null,{"className":"mb-8 text-gray-800 space-y-4","children":[["$","span",null,{"className":"font-semibold text-gray-900 text-base","children":"Job Description:"}],["$","p",null,{"className":"whitespace-pre-line text-gray-700 leading-relaxed","children":"$6"}]]}],false,"$undefined"]}]}],null,"$L7"]}],{},null,false]},null,false]},null,false]},null,false],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"s":false,"S":true}
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"OutletBoundary"]
+d:I[11533,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"AsyncMetadataOutlet"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
+12:"$Sreact.suspense"
+7:["$","$Lb",null,{"children":["$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]
+8:["$","$1","h",{"children":[null,[["$","$Lf",null,{"children":"$L10"}],null],["$","$L11",null,{"children":["$","div",null,{"hidden":true,"children":["$","$12",null,{"fallback":null,"children":"$L13"}]}]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/bf6a6db65f82309d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+e:{"metadata":[["$","link","0",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","1",{}]],"error":null,"digest":"$undefined"}
+13:"$e:metadata"

@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[53243,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+3:I[3470,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+a:I[68027,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+:HL["/_next/static/chunks/bf6a6db65f82309d.css","style"]
+6:T425,EY Bangalore is hiring – Vulnerability Assessment and Penetration Testing – September 2025
+
+Key Responsibilities:
+- Conduct in-depth vulnerability assessments and penetration testing of applications, networks, mobile, API and infrastructure.
+- Simulate real-world cyberattacks to assess system defenses.
+- Prepare detailed reports with risk analysis and actionable recommendations.
+- Collaborate with security engineers and developers to remediate identified vulnerabilities.
+- Stay updated with the latest security trends, exploits, and threat intelligence.
+
+Requirements:
+- 2–5 years of hands-on experience in VAPT, ethical hacking, or red teaming.
+- Certifications – OSCP, CRTP, GPEN or similar
+- Proficiency with tools like Burp Suite, Nmap, Metasploit, Wireshark, and others.
+- Strong understanding of OWASP Top 10, MITRE ATT&CK, and secure coding practices.
+- Nice to Have: Experience in Threat Modelling, Secure Source Code Review, Network Architecture Review, Scripting or automation skills (Python, Bash, etc.).
+
+Apply: https://lnkd.in/gw6Wk5_C0:{"P":null,"b":"HFWSpj3XGqc8o6Oyln5f6","p":"","c":["","jobs","107"],"i":false,"f":[[["",{"children":["jobs",{"children":[["id","107","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/bf6a6db65f82309d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0362750dd751a011.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]}]]}],{"children":["jobs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","107","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-gray-50 py-12 px-4 sm:px-6","children":["$","div",null,{"className":"max-w-3xl mx-auto bg-white border border-gray-200 rounded-2xl shadow-lg p-8 md:p-10","children":[["$","h1",null,{"className":"text-3xl font-bold text-blue-800 mb-2","children":"Vulnerability Assessment and Penetration Testing (VAPT) Professional"}],["$","div",null,{"className":"text-gray-700 font-semibold mb-4 text-lg","children":"EY Bangalore"}],["$","div",null,{"className":"flex flex-wrap gap-4 text-sm text-gray-500 mb-6","children":[["$","span",null,{"children":["📍 ","Bangalore"]}],["$","span",null,{"children":["💼 ","Full-time"]}],["$","span",null,{"children":["🕑 ","2–5 years"]}],["$","span",null,{"children":["🗓️ Posted: ","07-09-2025"]}]]}],["$","div",null,{"className":"mb-8 text-gray-800 space-y-4","children":[["$","span",null,{"className":"font-semibold text-gray-900 text-base","children":"Job Description:"}],["$","p",null,{"className":"whitespace-pre-line text-gray-700 leading-relaxed","children":"$6"}]]}],"$L7","$undefined"]}]}],null,"$L8"]}],{},null,false]},null,false]},null,false]},null,false],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"s":false,"S":true}
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"OutletBoundary"]
+e:I[11533,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"AsyncMetadataOutlet"]
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
+13:"$Sreact.suspense"
+7:["$","a",null,{"href":"https://lnkd.in/gw6Wk5_C","target":"_blank","rel":"noopener noreferrer","className":"inline-block bg-gradient-to-r from-blue-600 to-blue-700 text-white px-8 py-3 rounded-xl font-semibold hover:scale-105 hover:shadow-lg transition-all text-center text-sm","children":"Apply Now"}]
+8:["$","$Lc",null,{"children":["$Ld",["$","$Le",null,{"promise":"$@f"}]]}]
+9:["$","$1","h",{"children":[null,[["$","$L10",null,{"children":"$L11"}],null],["$","$L12",null,{"children":["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":"$L14"}]}]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/bf6a6db65f82309d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+15:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+f:{"metadata":[["$","link","0",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","1",{}]],"error":null,"digest":"$undefined"}
+14:"$f:metadata"
