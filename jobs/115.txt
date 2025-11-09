@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[53243,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+3:I[3470,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+4:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+5:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"default"]
+9:I[68027,["/_next/static/chunks/0362750dd751a011.js"],"default"]
+:HL["/_next/static/chunks/bf6a6db65f82309d.css","style"]
+6:Tb6e,Educate 360 is seeking a Red Team Content Creator to join our TCM Security brand, reporting to the Product Manager of Cybersecurity Solutions. This role will focus on maintaining and expanding our industry-leading red team training portfolio. The Red Team Content Creator will ensure existing content remains current, produce new courses and labs, create YouTube and blog content to grow audience engagement, and contribute to the development and delivery of live training sessions.
+
+This is a full-time, US-based, remote position with minimal to no travel required.
+
+Key Responsibilities:
+- Content Maintenance & Updates
+- Keep existing TCM Security red team courses, labs, and certifications up to date with the latest tactics, techniques, and procedures.
+- New Course & Curriculum Development
+- Design and produce new red team training content across multiple formats (asynchronous, synchronous, lab-based).
+- Develop hands-on scenarios replicating advanced adversary campaigns, post-exploitation, and persistence methods.
+- Collaborate with the product manager and SMEs to align new courses with the cybersecurity roadmap.
+- YouTube & Blog Content Creation
+- Create engaging YouTube videos and blog posts showcasing TCM Security’s offensive expertise.
+- Provide technical breakdowns of exploits, demonstrations of red team tradecraft, and walkthroughs of complex attack paths.
+- Live Training Development & Delivery
+- Assist in preparing and teaching live training sessions for clients and community members.
+- Develop red team lab environments that replicate enterprise-scale attacks.
+
+Qualifications:
+- US-based, eligible to work full-time.
+- 5+ years of hands-on experience in red team operations, advanced penetration testing, or adversary simulation.
+- Demonstrated expertise in:
+  - Active Directory exploitation
+  - Advanced web exploitation
+  - Privilege escalation & post-exploitation
+  - Adversary simulation frameworks
+  - OSINT & social engineering
+  - Tradecraft mapping
+- Certifications (preferred, not required):
+  - PNPT (Practical Network Penetration Tester)
+  - OSEP (Offensive Security Experienced Penetration Tester)
+  - GXPN (GIAC Exploit Researcher and Advanced Penetration Tester)
+  - Other relevant red team or penetration testing certifications
+- Skills:
+  - Strong ability to translate advanced red team techniques into clear, engaging educational content.
+  - Excellent communication and presentation skills for both technical and non-technical audiences.
+  - Passion for teaching, mentoring, and advancing the cybersecurity profession.
+  - Self-starter with the ability to work independently in a fully remote environment.
+  - Comfortable collaborating with product management, marketing, and other content creators.
+
+Salary Range: $150,000 - $200,000/yr DOE
+
+To Apply: Please send a PDF resume to recruiting@tcm-sec.com along with a 3-5 minute video teaching a red team topic of your choice.0:{"P":null,"b":"HFWSpj3XGqc8o6Oyln5f6","p":"","c":["","jobs","115"],"i":false,"f":[[["",{"children":["jobs",{"children":[["id","115","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/bf6a6db65f82309d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0362750dd751a011.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]}]]}],{"children":["jobs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","115","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-gray-50 py-12 px-4 sm:px-6","children":["$","div",null,{"className":"max-w-3xl mx-auto bg-white border border-gray-200 rounded-2xl shadow-lg p-8 md:p-10","children":[["$","h1",null,{"className":"text-3xl font-bold text-blue-800 mb-2","children":"Red Team Content Creator"}],["$","div",null,{"className":"text-gray-700 font-semibold mb-4 text-lg","children":"Educate 360 / TCM Security"}],["$","div",null,{"className":"flex flex-wrap gap-4 text-sm text-gray-500 mb-6","children":[["$","span",null,{"children":["📍 ","Remote (US-based)"]}],["$","span",null,{"children":["💼 ","Remote"]}],["$","span",null,{"children":["🕑 ","5+ years"]}],["$","span",null,{"children":["🗓️ Posted: ","18-09-2025"]}]]}],["$","div",null,{"className":"mb-8 text-gray-800 space-y-4","children":[["$","span",null,{"className":"font-semibold text-gray-900 text-base","children":"Job Description:"}],["$","p",null,{"className":"whitespace-pre-line text-gray-700 leading-relaxed","children":"$6"}]]}],false,"$undefined"]}]}],null,"$L7"]}],{},null,false]},null,false]},null,false]},null,false],"$L8",false]],"m":"$undefined","G":["$9",["$La"]],"s":false,"S":true}
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"OutletBoundary"]
+d:I[11533,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"AsyncMetadataOutlet"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"ViewportBoundary"]
+11:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"MetadataBoundary"]
+12:"$Sreact.suspense"
+7:["$","$Lb",null,{"children":["$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]
+8:["$","$1","h",{"children":[null,[["$","$Lf",null,{"children":"$L10"}],null],["$","$L11",null,{"children":["$","div",null,{"hidden":true,"children":["$","$12",null,{"fallback":null,"children":"$L13"}]}]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/bf6a6db65f82309d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:null
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7dd66bdf8a7e5707.js"],"IconMark"]
+e:{"metadata":[["$","link","0",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L14","1",{}]],"error":null,"digest":"$undefined"}
+13:"$e:metadata"

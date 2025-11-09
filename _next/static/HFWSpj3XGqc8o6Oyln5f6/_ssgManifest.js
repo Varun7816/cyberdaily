@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fjobs\u002F[id]","\u002Fmalware\u002F[slug]","\u002Fvulnerabilities\u002F[slug]","\u002Fzero-days\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
